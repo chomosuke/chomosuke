@@ -114,13 +114,10 @@ Just a random dude who's into programming
 ## Contribution to Open Source
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true)
 <!--CONTRIB BEGIN-->
-#### jay-babu/mason-nvim-dap.nvim
-- [Fix dart & flutter path on windows](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36)
-- [feat: support overriding filetypes for adapters](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29)
-#### karb94/neoscroll.nvim
-- [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/76)
-- [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/59)
-#### nvim-tree/nvim-tree.lua
+#### [neovide](https://github.com/neovide/neovide)
+- [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707)
+- [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706)
+#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)
 - [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879)
 - [1836 view debounce delay](https://github.com/nvim-tree/nvim-tree.lua/pull/1871)
 - [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835)
@@ -130,20 +127,23 @@ Just a random dude who's into programming
 - [1786 git next prev land on dirs](https://github.com/nvim-tree/nvim-tree.lua/pull/1787)
 - [fixed: git rename not showing up for the renamed file](https://github.com/nvim-tree/nvim-tree.lua/pull/1783)
 - [feat(diagnostics): only show diagnostic and git icon on closed folder](https://github.com/nvim-tree/nvim-tree.lua/pull/1778)
-#### neovide/neovide
-- [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707)
-- [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706)
-#### ReinBentdal/styled_widget
+#### [logiops](https://github.com/PixlOne/logiops)
+- [Prevent false positive in secondary axis for gestures](https://github.com/PixlOne/logiops/pull/343)
+#### [styled_widget](https://github.com/ReinBentdal/styled_widget)
 - [Add Material & MouseRegion extention](https://github.com/ReinBentdal/styled_widget/pull/77)
 - [added limitedBox extension](https://github.com/ReinBentdal/styled_widget/pull/72)
-#### PixlOne/logiops
-- [Prevent false positive in secondary axis for gestures](https://github.com/PixlOne/logiops/pull/343)
-#### barreiroleo/ltex_extra.nvim
-- [not assuming settings.ltex exist](https://github.com/barreiroleo/ltex_extra.nvim/pull/13)
-#### ziontee113/syntax-tree-surfer
-- [Update README 1.0 suggested config](https://github.com/ziontee113/syntax-tree-surfer/pull/6)
-#### iamturns/eslint-config-airbnb-typescript
+#### [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript)
 - [chore: bumped peerDependencies to reflect the use of space-before-blocks](https://github.com/iamturns/eslint-config-airbnb-typescript/pull/293)
-#### rhys-vdw/ts-auto-guard
+#### [neoscroll.nvim](https://github.com/karb94/neoscroll.nvim)
+- [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/76)
+- [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/59)
+#### [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard)
 - [Check if object is a function if the type idicates so](https://github.com/rhys-vdw/ts-auto-guard/pull/159)
+#### [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer)
+- [Update README 1.0 suggested config](https://github.com/ziontee113/syntax-tree-surfer/pull/6)
+#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim)
+- [Fix dart & flutter path on windows](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36)
+- [feat: support overriding filetypes for adapters](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29)
+#### [ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim)
+- [not assuming settings.ltex exist](https://github.com/barreiroleo/ltex_extra.nvim/pull/13)
 <!--CONTRIB END-->
