@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "chomosuke-profile"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "chomosuke_profile"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pygithub = "^1.57"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
