@@ -113,27 +113,28 @@ Just a random dude who's into programming
 
 ## Contribution to Open Source
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true)
+[![chomosuke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chomosuke&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--CONTRIB BEGIN-->
-https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36
-https://github.com/karb94/neoscroll.nvim/pull/76
-https://github.com/nvim-tree/nvim-tree.lua/pull/1879
-https://github.com/nvim-tree/nvim-tree.lua/pull/1871
-https://github.com/neovide/neovide/pull/1707
-https://github.com/neovide/neovide/pull/1706
-https://github.com/ReinBentdal/styled_widget/pull/77
-https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29
-https://github.com/nvim-tree/nvim-tree.lua/pull/1835
-https://github.com/nvim-tree/nvim-tree.lua/pull/1832
-https://github.com/nvim-tree/nvim-tree.lua/pull/1827
-https://github.com/nvim-tree/nvim-tree.lua/pull/1809
-https://github.com/nvim-tree/nvim-tree.lua/pull/1787
-https://github.com/nvim-tree/nvim-tree.lua/pull/1783
-https://github.com/nvim-tree/nvim-tree.lua/pull/1778
-https://github.com/PixlOne/logiops/pull/343
-https://github.com/barreiroleo/ltex_extra.nvim/pull/13
-https://github.com/ziontee113/syntax-tree-surfer/pull/6
-https://github.com/karb94/neoscroll.nvim/pull/59
-https://github.com/iamturns/eslint-config-airbnb-typescript/pull/293
-https://github.com/ReinBentdal/styled_widget/pull/72
-https://github.com/rhys-vdw/ts-auto-guard/pull/159
+- https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36
+- https://github.com/karb94/neoscroll.nvim/pull/76
+- https://github.com/nvim-tree/nvim-tree.lua/pull/1879
+- https://github.com/nvim-tree/nvim-tree.lua/pull/1871
+- https://github.com/neovide/neovide/pull/1707
+- https://github.com/neovide/neovide/pull/1706
+- https://github.com/ReinBentdal/styled_widget/pull/77
+- https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29
+- https://github.com/nvim-tree/nvim-tree.lua/pull/1835
+- https://github.com/nvim-tree/nvim-tree.lua/pull/1832
+- https://github.com/nvim-tree/nvim-tree.lua/pull/1827
+- https://github.com/nvim-tree/nvim-tree.lua/pull/1809
+- https://github.com/nvim-tree/nvim-tree.lua/pull/1787
+- https://github.com/nvim-tree/nvim-tree.lua/pull/1783
+- https://github.com/nvim-tree/nvim-tree.lua/pull/1778
+- https://github.com/PixlOne/logiops/pull/343
+- https://github.com/barreiroleo/ltex_extra.nvim/pull/13
+- https://github.com/ziontee113/syntax-tree-surfer/pull/6
+- https://github.com/karb94/neoscroll.nvim/pull/59
+- https://github.com/iamturns/eslint-config-airbnb-typescript/pull/293
+- https://github.com/ReinBentdal/styled_widget/pull/72
+- https://github.com/rhys-vdw/ts-auto-guard/pull/159
 <!--CONTRIB END-->

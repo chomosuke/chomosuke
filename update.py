@@ -12,7 +12,7 @@ prs = g.search_issues("is:pr author:chomosuke is:public")
 contrib = "\n"
 for pr in prs:
     if "chomosuke" not in pr.html_url:
-        contrib += pr.html_url + "\n"
+        contrib += "- " + pr.html_url + "\n"
 
 readme = re.sub(
     "<!--CONTRIB BEGIN-->.*<!--CONTRIB END-->",
