@@ -113,28 +113,37 @@ Just a random dude who's into programming
 
 ## Contribution to Open Source
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true)
-[![chomosuke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chomosuke&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--CONTRIB BEGIN-->
-- https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36
-- https://github.com/karb94/neoscroll.nvim/pull/76
-- https://github.com/nvim-tree/nvim-tree.lua/pull/1879
-- https://github.com/nvim-tree/nvim-tree.lua/pull/1871
-- https://github.com/neovide/neovide/pull/1707
-- https://github.com/neovide/neovide/pull/1706
-- https://github.com/ReinBentdal/styled_widget/pull/77
-- https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29
-- https://github.com/nvim-tree/nvim-tree.lua/pull/1835
-- https://github.com/nvim-tree/nvim-tree.lua/pull/1832
-- https://github.com/nvim-tree/nvim-tree.lua/pull/1827
-- https://github.com/nvim-tree/nvim-tree.lua/pull/1809
-- https://github.com/nvim-tree/nvim-tree.lua/pull/1787
-- https://github.com/nvim-tree/nvim-tree.lua/pull/1783
-- https://github.com/nvim-tree/nvim-tree.lua/pull/1778
-- https://github.com/PixlOne/logiops/pull/343
-- https://github.com/barreiroleo/ltex_extra.nvim/pull/13
-- https://github.com/ziontee113/syntax-tree-surfer/pull/6
-- https://github.com/karb94/neoscroll.nvim/pull/59
-- https://github.com/iamturns/eslint-config-airbnb-typescript/pull/293
-- https://github.com/ReinBentdal/styled_widget/pull/72
-- https://github.com/rhys-vdw/ts-auto-guard/pull/159
+#### jay-babu/mason-nvim-dap.nvim
+- [Fix dart & flutter path on windows](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36)
+- [feat: support overriding filetypes for adapters](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29)
+#### karb94/neoscroll.nvim
+- [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/76)
+- [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/59)
+#### nvim-tree/nvim-tree.lua
+- [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879)
+- [1836 view debounce delay](https://github.com/nvim-tree/nvim-tree.lua/pull/1871)
+- [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835)
+- [fix diagnostics showing up on file/dir with same prefix](https://github.com/nvim-tree/nvim-tree.lua/pull/1832)
+- [Fixed highlight-opened-files doesn't automatically refresh](https://github.com/nvim-tree/nvim-tree.lua/pull/1827)
+- [Improve git icons on directories](https://github.com/nvim-tree/nvim-tree.lua/pull/1809)
+- [1786 git next prev land on dirs](https://github.com/nvim-tree/nvim-tree.lua/pull/1787)
+- [fixed: git rename not showing up for the renamed file](https://github.com/nvim-tree/nvim-tree.lua/pull/1783)
+- [feat(diagnostics): only show diagnostic and git icon on closed folder](https://github.com/nvim-tree/nvim-tree.lua/pull/1778)
+#### neovide/neovide
+- [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707)
+- [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706)
+#### ReinBentdal/styled_widget
+- [Add Material & MouseRegion extention](https://github.com/ReinBentdal/styled_widget/pull/77)
+- [added limitedBox extension](https://github.com/ReinBentdal/styled_widget/pull/72)
+#### PixlOne/logiops
+- [Prevent false positive in secondary axis for gestures](https://github.com/PixlOne/logiops/pull/343)
+#### barreiroleo/ltex_extra.nvim
+- [not assuming settings.ltex exist](https://github.com/barreiroleo/ltex_extra.nvim/pull/13)
+#### ziontee113/syntax-tree-surfer
+- [Update README 1.0 suggested config](https://github.com/ziontee113/syntax-tree-surfer/pull/6)
+#### iamturns/eslint-config-airbnb-typescript
+- [chore: bumped peerDependencies to reflect the use of space-before-blocks](https://github.com/iamturns/eslint-config-airbnb-typescript/pull/293)
+#### rhys-vdw/ts-auto-guard
+- [Check if object is a function if the type idicates so](https://github.com/rhys-vdw/ts-auto-guard/pull/159)
 <!--CONTRIB END-->
