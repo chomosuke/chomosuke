@@ -115,19 +115,19 @@ Just a random dude who's into programming
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true)
 ### Pull Requests
 <!--CONTRIB BEGIN-->
-#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)9439
+#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)9438
 - [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706) ![](./assets/open.svg)
 - [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707) ![](./assets/merged.svg)
-#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)4207
+#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)4206
 - [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835) ![](./assets/merged.svg)
-- [fix diagnostics showing up on file/dir with same prefix](https://github.com/nvim-tree/nvim-tree.lua/pull/1832) ![](./assets/merged.svg)
 - [Improve git icons on directories](https://github.com/nvim-tree/nvim-tree.lua/pull/1809) ![](./assets/merged.svg)
-- [fixed: git rename not showing up for the renamed file](https://github.com/nvim-tree/nvim-tree.lua/pull/1783) ![](./assets/merged.svg)
+- [fix diagnostics showing up on file/dir with same prefix](https://github.com/nvim-tree/nvim-tree.lua/pull/1832) ![](./assets/merged.svg)
 - [feat(diagnostics): only show diagnostic and git icon on closed folder](https://github.com/nvim-tree/nvim-tree.lua/pull/1778) ![](./assets/merged.svg)
-- [1836 view debounce delay](https://github.com/nvim-tree/nvim-tree.lua/pull/1871) ![](./assets/merged.svg)
+- [fixed: git rename not showing up for the renamed file](https://github.com/nvim-tree/nvim-tree.lua/pull/1783) ![](./assets/merged.svg)
 - [1786 git next prev land on dirs](https://github.com/nvim-tree/nvim-tree.lua/pull/1787) ![](./assets/merged.svg)
-- [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879) ![](./assets/merged.svg)
+- [1836 view debounce delay](https://github.com/nvim-tree/nvim-tree.lua/pull/1871) ![](./assets/merged.svg)
 - [Fixed highlight-opened-files doesn't automatically refresh](https://github.com/nvim-tree/nvim-tree.lua/pull/1827) ![](./assets/merged.svg)
+- [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879) ![](./assets/merged.svg)
 #### [logiops](https://github.com/PixlOne/logiops) ![](./assets/star.svg)2305
 - [Prevent false positive in secondary axis for gestures](https://github.com/PixlOne/logiops/pull/343) ![](./assets/open.svg)
 #### [styled_widget](https://github.com/ReinBentdal/styled_widget) ![](./assets/star.svg)997
