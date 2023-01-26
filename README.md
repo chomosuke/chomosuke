@@ -55,7 +55,7 @@ Just a random dude who's into programming
 	<img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Lua" width="40" height="40"/>
 </a>
 
-### Fullstack Development
+### Library, Frameworks & Platforms
 <a target="_blank" href="https://www.mongodb.com/">
 	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="80" height="40"/>
 </a>
@@ -98,8 +98,9 @@ Just a random dude who's into programming
 <a target="_blank" href="https://www.docker.com/">
 	<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
 </a>
-
-### Graphics
+<a target="_blank" href="https://jestjs.io/">
+	<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
+</a>
 <a target="_blank" href="https://unity.com/">
 	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 </a>
@@ -155,4 +156,11 @@ Just a random dude who's into programming
 - [not assuming settings.ltex exist](https://github.com/barreiroleo/ltex_extra.nvim/pull/13) ![](./assets/merged.svg)
 <!--CONTRIB END-->
 
-This README is updated by [update.py](https://github.com/chomosuke/chomosuke/blob/master/update.py)
+## Personal Projects
+[![term-edit.nvim](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=term-edit.nvim)](https://github.com/chomosuke/term-edit.nvim)\
+[![Lumpime Tracker](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=lumpime-tracker)](https://github.com/chomosuke/lumpime-tracker)\
+[![Catballchard](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=catballchard)](https://github.com/chomosuke/catballchard)\
+[![Project Rocket](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=ProjectRocketC)](https://github.com/chomosuke/ProjectRocketC)\
+[![PRC Android 2D Game Engine](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=PRCAndroid2DGameEngine)](https://github.com/chomosuke/PRCAndroid2DGameEngine)
+
+This README is updated by [a python script running in GitHub Actions](https://github.com/chomosuke/chomosuke/blob/master/update.py)
