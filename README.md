@@ -2,6 +2,7 @@
 Just a random dude who's into programming
 
 ## Knows more stuff than I need
+### Languages
 <a target="_blank" href="https://www.rust-lang.org/">
 	<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="40"/>
 </a>
@@ -38,12 +39,6 @@ Just a random dude who's into programming
 <a target="_blank" href="https://en.wikipedia.org/wiki/Prolog">
 	<img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" alt="Prolog" width="40" height="40"/>
 </a>
-<a target="_blank" href="https://docs.unity3d.com/Manual/SL-ShaderPrograms.html">
-	<img src="https://www.file-extension.info/images/resource/formats/hlsl.png" alt="HLSL" width="40" height="40"/>
-</a>
-<a target="_blank" href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1200px-Opengl-logo.svg.png" alt="GLSL" width="60" height="25"/>
-</a>
 <a target="_blank" href="https://go.dev/">
 	<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40"/>
 </a>
@@ -59,6 +54,8 @@ Just a random dude who's into programming
 <a target="_blank" href="https://www.lua.org/">
 	<img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Lua" width="40" height="40"/>
 </a>
+
+### Fullstack Development
 <a target="_blank" href="https://www.mongodb.com/">
 	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="80" height="40"/>
 </a>
@@ -92,9 +89,6 @@ Just a random dude who's into programming
 <a target="_blank" href="https://developer.android.com/">
 	<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/>
 </a>
-<a target="_blank" href="https://unity.com/">
-	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-</a>
 <a target="_blank" href="https://rocket.rs/">
 	<img src="https://rocket.rs/v0.4/images/logo-boxed.png" alt="Rocket.rs" width="40" height="40"/>
 </a>
@@ -104,6 +98,19 @@ Just a random dude who's into programming
 <a target="_blank" href="https://www.docker.com/">
 	<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
 </a>
+
+### Graphics
+<a target="_blank" href="https://unity.com/">
+	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+</a>
+<a target="_blank" href="https://docs.unity3d.com/Manual/SL-ShaderPrograms.html">
+	<img src="https://www.file-extension.info/images/resource/formats/hlsl.png" alt="HLSL" width="40" height="40"/>
+</a>
+<a target="_blank" href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1200px-Opengl-logo.svg.png" alt="GLSL" width="60" height="25"/>
+</a>
+
+## Daily Driving
 <a target="_blank" href="https://archlinux.org/">
 	<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="40" height="40"/>
 </a>
