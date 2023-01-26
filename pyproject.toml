@@ -2,10 +2,9 @@
 name = "chomosuke-profile"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Richard Li <a13323600@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "chomosuke_profile"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
