@@ -156,11 +156,13 @@ Just a random dude who's into programming
 - [not assuming settings.ltex exist](https://github.com/barreiroleo/ltex_extra.nvim/pull/13) ![](./assets/merged.svg)
 <!--CONTRIB END-->
 
-## Personal Projects
-[![term-edit.nvim](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=term-edit.nvim)](https://github.com/chomosuke/term-edit.nvim)\
-[![Lumpime Tracker](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=lumpime-tracker)](https://github.com/chomosuke/lumpime-tracker)\
-[![Catballchard](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=catballchard)](https://github.com/chomosuke/catballchard)\
-[![Project Rocket](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=ProjectRocketC)](https://github.com/chomosuke/ProjectRocketC)\
+## Notable Repository
+[![term-edit.nvim](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=term-edit.nvim)](https://github.com/chomosuke/term-edit.nvim)
+[![Ray Tracing in Unity](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=RayTracing-in-Unity)](https://github.com/chomosuke/RayTracing-in-Unity)
+[![Lumpime Tracker](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=lumpime-tracker)](https://github.com/chomosuke/lumpime-tracker)
+[![Catballchard](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=catballchard)](https://github.com/chomosuke/catballchard)
+[![flex_with_main_child](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=flex_with_main_child)](https://github.com/chomosuke/flex_with_main_child)
+[![Project Rocket](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=ProjectRocketC)](https://github.com/chomosuke/ProjectRocketC)
 [![PRC Android 2D Game Engine](https://github-readme-stats.vercel.app/api/pin/?username=chomosuke&repo=PRCAndroid2DGameEngine)](https://github.com/chomosuke/PRCAndroid2DGameEngine)
 
 This README is updated by [a python script running in GitHub Actions](https://github.com/chomosuke/chomosuke/blob/master/update.py)
