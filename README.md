@@ -114,36 +114,36 @@ Just a random dude who's into programming
 ## Contribution to Open Source
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true)
 <!--CONTRIB BEGIN-->
-#### [neovide](https://github.com/neovide/neovide)
-- [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707)
-- [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706)
-#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)
-- [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879)
-- [1836 view debounce delay](https://github.com/nvim-tree/nvim-tree.lua/pull/1871)
-- [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835)
-- [fix diagnostics showing up on file/dir with same prefix](https://github.com/nvim-tree/nvim-tree.lua/pull/1832)
-- [Fixed highlight-opened-files doesn't automatically refresh](https://github.com/nvim-tree/nvim-tree.lua/pull/1827)
-- [Improve git icons on directories](https://github.com/nvim-tree/nvim-tree.lua/pull/1809)
-- [1786 git next prev land on dirs](https://github.com/nvim-tree/nvim-tree.lua/pull/1787)
-- [fixed: git rename not showing up for the renamed file](https://github.com/nvim-tree/nvim-tree.lua/pull/1783)
-- [feat(diagnostics): only show diagnostic and git icon on closed folder](https://github.com/nvim-tree/nvim-tree.lua/pull/1778)
-#### [logiops](https://github.com/PixlOne/logiops)
-- [Prevent false positive in secondary axis for gestures](https://github.com/PixlOne/logiops/pull/343)
-#### [styled_widget](https://github.com/ReinBentdal/styled_widget)
-- [Add Material & MouseRegion extention](https://github.com/ReinBentdal/styled_widget/pull/77)
-- [added limitedBox extension](https://github.com/ReinBentdal/styled_widget/pull/72)
-#### [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript)
-- [chore: bumped peerDependencies to reflect the use of space-before-blocks](https://github.com/iamturns/eslint-config-airbnb-typescript/pull/293)
-#### [neoscroll.nvim](https://github.com/karb94/neoscroll.nvim)
-- [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/76)
-- [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/59)
-#### [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard)
-- [Check if object is a function if the type idicates so](https://github.com/rhys-vdw/ts-auto-guard/pull/159)
-#### [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer)
-- [Update README 1.0 suggested config](https://github.com/ziontee113/syntax-tree-surfer/pull/6)
-#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim)
-- [Fix dart & flutter path on windows](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36)
-- [feat: support overriding filetypes for adapters](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29)
-#### [ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim)
-- [not assuming settings.ltex exist](https://github.com/barreiroleo/ltex_extra.nvim/pull/13)
+#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg) 9439
+- [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707) ![](./assets/merged.svg)
+- [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706) ![](./assets/open.svg)
+#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg) 4207
+- [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879) ![](./assets/merged.svg)
+- [1836 view debounce delay](https://github.com/nvim-tree/nvim-tree.lua/pull/1871) ![](./assets/merged.svg)
+- [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835) ![](./assets/merged.svg)
+- [fix diagnostics showing up on file/dir with same prefix](https://github.com/nvim-tree/nvim-tree.lua/pull/1832) ![](./assets/merged.svg)
+- [Fixed highlight-opened-files doesn't automatically refresh](https://github.com/nvim-tree/nvim-tree.lua/pull/1827) ![](./assets/merged.svg)
+- [Improve git icons on directories](https://github.com/nvim-tree/nvim-tree.lua/pull/1809) ![](./assets/merged.svg)
+- [1786 git next prev land on dirs](https://github.com/nvim-tree/nvim-tree.lua/pull/1787) ![](./assets/merged.svg)
+- [fixed: git rename not showing up for the renamed file](https://github.com/nvim-tree/nvim-tree.lua/pull/1783) ![](./assets/merged.svg)
+- [feat(diagnostics): only show diagnostic and git icon on closed folder](https://github.com/nvim-tree/nvim-tree.lua/pull/1778) ![](./assets/merged.svg)
+#### [logiops](https://github.com/PixlOne/logiops) ![](./assets/star.svg) 2305
+- [Prevent false positive in secondary axis for gestures](https://github.com/PixlOne/logiops/pull/343) ![](./assets/open.svg)
+#### [styled_widget](https://github.com/ReinBentdal/styled_widget) ![](./assets/star.svg) 997
+- [Add Material & MouseRegion extention](https://github.com/ReinBentdal/styled_widget/pull/77) ![](./assets/merged.svg)
+- [added limitedBox extension](https://github.com/ReinBentdal/styled_widget/pull/72) ![](./assets/merged.svg)
+#### [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) ![](./assets/star.svg) 896
+- [chore: bumped peerDependencies to reflect the use of space-before-blocks](https://github.com/iamturns/eslint-config-airbnb-typescript/pull/293) ![](./assets/merged.svg)
+#### [neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) ![](./assets/star.svg) 792
+- [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/76) ![](./assets/merged.svg)
+- [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/59) ![](./assets/open.svg)
+#### [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard) ![](./assets/star.svg) 404
+- [Check if object is a function if the type idicates so](https://github.com/rhys-vdw/ts-auto-guard/pull/159) ![](./assets/merged.svg)
+#### [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) ![](./assets/star.svg) 334
+- [Update README 1.0 suggested config](https://github.com/ziontee113/syntax-tree-surfer/pull/6) ![](./assets/merged.svg)
+#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg) 82
+- [Fix dart & flutter path on windows](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36) ![](./assets/open.svg)
+- [feat: support overriding filetypes for adapters](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29) ![](./assets/merged.svg)
+#### [ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) ![](./assets/star.svg) 52
+- [not assuming settings.ltex exist](https://github.com/barreiroleo/ltex_extra.nvim/pull/13) ![](./assets/merged.svg)
 <!--CONTRIB END-->
