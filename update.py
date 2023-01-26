@@ -22,8 +22,12 @@ for k in repos:
     repo = repos[k][0].repository
     prs = []
     for pr in repos[k]:
-        # if pr.closed_at is not None:
-        prs.append(pr.as_pull_request())
+        pr = pr.as_pull_request()
+        print(pr.title, pr.closed_at, pr.closed_at is None, pr.merged)
+        if pr.merged or pr.closed_at is None:
+            # only include merge and opened pr
+            prs.append(pr)
+    prs.sort(key=lambda pr: pr.comments, reverse=True)
     repo_prss.append((repo, prs))
 
 repo_prss.sort(key=lambda repo_prs: repo_prs[0].stargazers_count, reverse=True)
@@ -36,7 +40,7 @@ for repo_prs in repo_prss:
         + k.name
         + "]("
         + k.html_url
-        + ") ![](./assets/star.svg) "
+        + ") ![](./assets/star.svg)"
         + str(k.stargazers_count)
         + "\n"
     )
