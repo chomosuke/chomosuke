@@ -1,6 +1,7 @@
 import sys
 from github import Github
 import re
+import time
 
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
@@ -22,6 +23,9 @@ for k in repos:
     repo = repos[k][0].repository
     prs = []
     for pr in repos[k]:
+        if sys.argv[2] == 'release':
+            # throttle when running in github action
+            time.sleep(1)
         pr = pr.as_pull_request()
         if pr.merged or pr.closed_at is None:
             # only include merge and opened pr
