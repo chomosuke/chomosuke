@@ -98,6 +98,12 @@ Just a random dude who's into programming
 <a target="_blank" href="https://www.docker.com/">
 	<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
 </a>
+<a target="_blank" href="https://github.com/features/actions">
+	<img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" width="40" height="40"/>
+</a>
+<a target="_blank" href="https://circleci.com/">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/1200px-Circleci-icon-logo.svg.png" alt="CircleCI" width="40" height="40"/>
+</a>
 <a target="_blank" href="https://jestjs.io/">
 	<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
 </a>
