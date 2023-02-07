@@ -7,7 +7,10 @@ Just a random dude who's into programming
 	<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="40"/>
 </a>
 <a target="_blank" href="https://www.java.com/en/">
-	<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+	<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+</a>
+<a target="_blank" href="https://kotlinlang.org/">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin" width="40" height="40"/>
 </a>
 <a target="_blank" href="https://en.wikipedia.org/wiki/C_(programming_language)">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="36" height="40"/>
@@ -47,9 +50,6 @@ Just a random dude who's into programming
 </a>
 <a target="_blank" href="https://clojure.org/">
 	<img src="https://www.vectorlogo.zone/logos/clojure/clojure-icon.svg" alt="Clojure" width="40" height="40"/>
-</a>
-<a target="_blank" href="https://racket-lang.org/">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="Racket" width="40" height="40"/>
 </a>
 <a target="_blank" href="https://www.lua.org/">
 	<img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Lua" width="40" height="40"/>
