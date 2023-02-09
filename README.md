@@ -80,7 +80,7 @@ Just a random dude who's into programming
 <a target="_blank" href="https://www.prisma.io/">
 	<img src="https://vectorwiki.com/images/SIGDY__prisma.svg" alt="Prisma" width="40" height="40"/>
 </a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+<a target="_blank" href="https://github.com/gin-gonic/gin">
 	<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="30" height="40"/>
 </a>
 <a target="_blank" href="https://flutter.dev/">
