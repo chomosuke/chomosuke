@@ -129,10 +129,10 @@ Just a random dude who's into programming
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true)
 ### Pull Requests
 <!--CONTRIB BEGIN-->
-#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)9573
+#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)9579
 - [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706) ![](./assets/open.svg)
 - [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707) ![](./assets/merged.svg)
-#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)4428
+#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)4433
 - [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835) ![](./assets/merged.svg)
 - [Improve git icons on directories](https://github.com/nvim-tree/nvim-tree.lua/pull/1809) ![](./assets/merged.svg)
 - [feat(diagnostics): only show diagnostic and git icon on closed folder](https://github.com/nvim-tree/nvim-tree.lua/pull/1778) ![](./assets/merged.svg)
@@ -147,13 +147,13 @@ Just a random dude who's into programming
 #### [styled_widget](https://github.com/ReinBentdal/styled_widget) ![](./assets/star.svg)1016
 - [added limitedBox extension](https://github.com/ReinBentdal/styled_widget/pull/72) ![](./assets/merged.svg)
 - [Add Material & MouseRegion extention](https://github.com/ReinBentdal/styled_widget/pull/77) ![](./assets/merged.svg)
-#### [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) ![](./assets/star.svg)902
+#### [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) ![](./assets/star.svg)903
 - [chore: bumped peerDependencies to reflect the use of space-before-blocks](https://github.com/iamturns/eslint-config-airbnb-typescript/pull/293) ![](./assets/merged.svg)
-#### [neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) ![](./assets/star.svg)819
+#### [neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) ![](./assets/star.svg)820
 - [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/76) ![](./assets/merged.svg)
 #### [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard) ![](./assets/star.svg)408
 - [Check if object is a function if the type idicates so](https://github.com/rhys-vdw/ts-auto-guard/pull/159) ![](./assets/merged.svg)
-#### [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) ![](./assets/star.svg)344
+#### [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) ![](./assets/star.svg)345
 - [Update README 1.0 suggested config](https://github.com/ziontee113/syntax-tree-surfer/pull/6) ![](./assets/merged.svg)
 #### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg)107
 - [Fix dart & flutter path on windows](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36) ![](./assets/merged.svg)
