@@ -129,10 +129,10 @@ Just a random dude who's into programming
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true)
 ### Pull Requests
 <!--CONTRIB BEGIN-->
-#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)9579
+#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)9581
 - [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706) ![](./assets/open.svg)
 - [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707) ![](./assets/merged.svg)
-#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)4433
+#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)4440
 - [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835) ![](./assets/merged.svg)
 - [Improve git icons on directories](https://github.com/nvim-tree/nvim-tree.lua/pull/1809) ![](./assets/merged.svg)
 - [feat(diagnostics): only show diagnostic and git icon on closed folder](https://github.com/nvim-tree/nvim-tree.lua/pull/1778) ![](./assets/merged.svg)
@@ -142,7 +142,7 @@ Just a random dude who's into programming
 - [fix diagnostics showing up on file/dir with same prefix](https://github.com/nvim-tree/nvim-tree.lua/pull/1832) ![](./assets/merged.svg)
 - [Fixed highlight-opened-files doesn't automatically refresh](https://github.com/nvim-tree/nvim-tree.lua/pull/1827) ![](./assets/merged.svg)
 - [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879) ![](./assets/merged.svg)
-#### [logiops](https://github.com/PixlOne/logiops) ![](./assets/star.svg)2345
+#### [logiops](https://github.com/PixlOne/logiops) ![](./assets/star.svg)2348
 - [Prevent false positive in secondary axis for gestures](https://github.com/PixlOne/logiops/pull/343) ![](./assets/open.svg)
 #### [styled_widget](https://github.com/ReinBentdal/styled_widget) ![](./assets/star.svg)1016
 - [added limitedBox extension](https://github.com/ReinBentdal/styled_widget/pull/72) ![](./assets/merged.svg)
@@ -155,7 +155,7 @@ Just a random dude who's into programming
 - [Check if object is a function if the type idicates so](https://github.com/rhys-vdw/ts-auto-guard/pull/159) ![](./assets/merged.svg)
 #### [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) ![](./assets/star.svg)345
 - [Update README 1.0 suggested config](https://github.com/ziontee113/syntax-tree-surfer/pull/6) ![](./assets/merged.svg)
-#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg)107
+#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg)109
 - [Fix dart & flutter path on windows](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36) ![](./assets/merged.svg)
 - [feat: support overriding filetypes for adapters](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29) ![](./assets/merged.svg)
 #### [ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) ![](./assets/star.svg)54
