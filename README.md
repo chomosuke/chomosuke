@@ -130,11 +130,11 @@ Just a random dude who's into programming
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true)
 ### Pull Requests
 <!--CONTRIB BEGIN-->
-#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)10068
+#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)10069
 - [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706) ![](./assets/merged.svg)
 - [Fixes window position not being remembered on multi-monitor](https://github.com/neovide/neovide/pull/1837) ![](./assets/merged.svg)
 - [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707) ![](./assets/merged.svg)
-#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)10031
+#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)10049
 - [Add `chomosuke/term-edit.nvim`](https://github.com/rockerBOO/awesome-neovim/pull/739) ![](./assets/merged.svg)
 #### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)4898
 - [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835) ![](./assets/merged.svg)
@@ -146,7 +146,7 @@ Just a random dude who's into programming
 - [fix diagnostics showing up on file/dir with same prefix](https://github.com/nvim-tree/nvim-tree.lua/pull/1832) ![](./assets/merged.svg)
 - [Fixed highlight-opened-files doesn't automatically refresh](https://github.com/nvim-tree/nvim-tree.lua/pull/1827) ![](./assets/merged.svg)
 - [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879) ![](./assets/merged.svg)
-#### [logiops](https://github.com/PixlOne/logiops) ![](./assets/star.svg)2481
+#### [logiops](https://github.com/PixlOne/logiops) ![](./assets/star.svg)2485
 - [Prevent false positive in secondary axis for gestures](https://github.com/PixlOne/logiops/pull/343) ![](./assets/open.svg)
 #### [styled_widget](https://github.com/ReinBentdal/styled_widget) ![](./assets/star.svg)1055
 - [added limitedBox extension](https://github.com/ReinBentdal/styled_widget/pull/72) ![](./assets/merged.svg)
@@ -156,7 +156,7 @@ Just a random dude who's into programming
 - [changed rainbowcol1 to lightgrey](https://github.com/navarasu/onedark.nvim/pull/158) ![](./assets/merged.svg)
 #### [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) ![](./assets/star.svg)922
 - [chore: bumped peerDependencies to reflect the use of space-before-blocks](https://github.com/iamturns/eslint-config-airbnb-typescript/pull/293) ![](./assets/merged.svg)
-#### [neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) ![](./assets/star.svg)877
+#### [neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) ![](./assets/star.svg)878
 - [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/76) ![](./assets/merged.svg)
 #### [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard) ![](./assets/star.svg)431
 - [Check if object is a function if the type idicates so](https://github.com/rhys-vdw/ts-auto-guard/pull/159) ![](./assets/merged.svg)
