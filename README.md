@@ -134,9 +134,9 @@ Just a random dude who's into programming
 - [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706) ![](./assets/merged.svg)
 - [Fixes window position not being remembered on multi-monitor](https://github.com/neovide/neovide/pull/1837) ![](./assets/merged.svg)
 - [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707) ![](./assets/merged.svg)
-#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)10062
+#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)10072
 - [Add `chomosuke/term-edit.nvim`](https://github.com/rockerBOO/awesome-neovim/pull/739) ![](./assets/merged.svg)
-#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)4904
+#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)4906
 - [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835) ![](./assets/merged.svg)
 - [Improve git icons on directories](https://github.com/nvim-tree/nvim-tree.lua/pull/1809) ![](./assets/merged.svg)
 - [feat(diagnostics): only show diagnostic and git icon on closed folder](https://github.com/nvim-tree/nvim-tree.lua/pull/1778) ![](./assets/merged.svg)
@@ -148,7 +148,7 @@ Just a random dude who's into programming
 - [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879) ![](./assets/merged.svg)
 #### [logiops](https://github.com/PixlOne/logiops) ![](./assets/star.svg)2487
 - [Prevent false positive in secondary axis for gestures](https://github.com/PixlOne/logiops/pull/343) ![](./assets/open.svg)
-#### [styled_widget](https://github.com/ReinBentdal/styled_widget) ![](./assets/star.svg)1056
+#### [styled_widget](https://github.com/ReinBentdal/styled_widget) ![](./assets/star.svg)1058
 - [added limitedBox extension](https://github.com/ReinBentdal/styled_widget/pull/72) ![](./assets/merged.svg)
 - [Add Material & MouseRegion extention](https://github.com/ReinBentdal/styled_widget/pull/77) ![](./assets/merged.svg)
 #### [onedark.nvim](https://github.com/navarasu/onedark.nvim) ![](./assets/star.svg)970
