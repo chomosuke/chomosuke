@@ -127,6 +127,7 @@ Just a random dude who's into programming
 
 ## Contribution to Open Source
 **Visit my [personal website](https://chomosuke.com/#/works/open-source) to see more.**
+
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true)
 ### Pull Requests
 <!--CONTRIB BEGIN-->
