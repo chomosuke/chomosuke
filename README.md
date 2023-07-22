@@ -54,6 +54,9 @@ Just a random dude who's into programming
 <a target="_blank" href="https://www.lua.org/">
 	<img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Lua" width="40" height="40"/>
 </a>
+<a target="_blank" href="https://ocaml.org/">
+	<img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-icon.svg" alt="OCaml" width="40" height="40"/>
+</a>
 
 ### Library, Frameworks & Platforms
 <a target="_blank" href="https://www.mongodb.com/">
