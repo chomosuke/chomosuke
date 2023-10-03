@@ -134,13 +134,13 @@ Just a random dude who's into programming
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true)
 ### Pull Requests
 <!--CONTRIB BEGIN-->
-#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)11780
+#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)11788
 - [Add `chomosuke/term-edit.nvim`](https://github.com/rockerBOO/awesome-neovim/pull/739) ![](./assets/merged.svg)
-#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)10748
+#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)10755
 - [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706) ![](./assets/merged.svg)
 - [Fixes window position not being remembered on multi-monitor](https://github.com/neovide/neovide/pull/1837) ![](./assets/merged.svg)
 - [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707) ![](./assets/merged.svg)
-#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)5591
+#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)5593
 - [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835) ![](./assets/merged.svg)
 - [Improve git icons on directories](https://github.com/nvim-tree/nvim-tree.lua/pull/1809) ![](./assets/merged.svg)
 - [feat(diagnostics): only show diagnostic and git icon on closed folder](https://github.com/nvim-tree/nvim-tree.lua/pull/1778) ![](./assets/merged.svg)
@@ -152,10 +152,10 @@ Just a random dude who's into programming
 - [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879) ![](./assets/merged.svg)
 #### [logiops](https://github.com/PixlOne/logiops) ![](./assets/star.svg)2742
 - [Prevent false positive in secondary axis for gestures](https://github.com/PixlOne/logiops/pull/343) ![](./assets/open.svg)
-#### [onedark.nvim](https://github.com/navarasu/onedark.nvim) ![](./assets/star.svg)1144
+#### [onedark.nvim](https://github.com/navarasu/onedark.nvim) ![](./assets/star.svg)1145
 - [Adding semantic token support](https://github.com/navarasu/onedark.nvim/pull/159) ![](./assets/merged.svg)
 - [changed rainbowcol1 to lightgrey](https://github.com/navarasu/onedark.nvim/pull/158) ![](./assets/merged.svg)
-#### [styled_widget](https://github.com/ReinBentdal/styled_widget) ![](./assets/star.svg)1137
+#### [styled_widget](https://github.com/ReinBentdal/styled_widget) ![](./assets/star.svg)1138
 - [added limitedBox extension](https://github.com/ReinBentdal/styled_widget/pull/72) ![](./assets/merged.svg)
 - [Add Material & MouseRegion extention](https://github.com/ReinBentdal/styled_widget/pull/77) ![](./assets/merged.svg)
 #### [neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) ![](./assets/star.svg)1007
@@ -166,7 +166,7 @@ Just a random dude who's into programming
 - [Check if object is a function if the type idicates so](https://github.com/rhys-vdw/ts-auto-guard/pull/159) ![](./assets/merged.svg)
 #### [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) ![](./assets/star.svg)418
 - [Update README 1.0 suggested config](https://github.com/ziontee113/syntax-tree-surfer/pull/6) ![](./assets/merged.svg)
-#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg)293
+#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg)296
 - [Fix dart & flutter path on windows](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36) ![](./assets/merged.svg)
 - [feat: support overriding filetypes for adapters](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29) ![](./assets/merged.svg)
 #### [ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) ![](./assets/star.svg)85
