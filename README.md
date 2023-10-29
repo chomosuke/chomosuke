@@ -173,4 +173,6 @@ Just a random dude who's into programming
 - [not assuming settings.ltex exist](https://github.com/barreiroleo/ltex_extra.nvim/pull/13) ![](./assets/merged.svg)
 <!--CONTRIB END-->
 
-This README is updated by [a python script running in GitHub Actions](https://github.com/chomosuke/chomosuke/blob/master/update.py)
+<br/>
+This README is updated daily by [a python script running in GitHub
+Actions](https://github.com/chomosuke/chomosuke/blob/master/update.py)
