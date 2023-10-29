@@ -174,5 +174,5 @@ Just a random dude who's into programming
 <!--CONTRIB END-->
 
 <br/>
-This README is updated daily by [a python script running in GitHub
-Actions](https://github.com/chomosuke/chomosuke/blob/master/update.py)
+
+This README is updated daily by [a python script running in GitHub Actions](https://github.com/chomosuke/chomosuke/blob/master/update.py)
