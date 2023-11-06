@@ -120,14 +120,6 @@ Just a random dude who's into programming
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1200px-Opengl-logo.svg.png" alt="GLSL" width="60" height="25"/>
 </a>
 
-## Daily Driving
-<a target="_blank" href="https://archlinux.org/">
-	<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="40" height="40"/>
-</a>
-<a target="_blank" href="https://neovim.io/">
-	<img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="NeoVim" width="40" height="40"/>
-</a>
-
 ## Contribution to Open Source
 **Visit my [personal website](https://chomosuke.com/#/works/open-source) to see more.**
 
