@@ -126,7 +126,7 @@ Just a random dude who's into programming
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true&theme=transparent)
 ### Pull Requests
 <!--CONTRIB BEGIN-->
-#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)12721
+#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)12728
 - [Add `chomosuke/typst-preview.nvim`](https://github.com/rockerBOO/awesome-neovim/pull/983) ![](./assets/merged.svg)
 - [Add `chomosuke/term-edit.nvim`](https://github.com/rockerBOO/awesome-neovim/pull/739) ![](./assets/merged.svg)
 #### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)11168
@@ -143,25 +143,25 @@ Just a random dude who's into programming
 - [fix diagnostics showing up on file/dir with same prefix](https://github.com/nvim-tree/nvim-tree.lua/pull/1832) ![](./assets/merged.svg)
 - [Fixed highlight-opened-files doesn't automatically refresh](https://github.com/nvim-tree/nvim-tree.lua/pull/1827) ![](./assets/merged.svg)
 - [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879) ![](./assets/merged.svg)
-#### [logiops](https://github.com/PixlOne/logiops) ![](./assets/star.svg)2884
+#### [logiops](https://github.com/PixlOne/logiops) ![](./assets/star.svg)2883
 - [Prevent false positive in secondary axis for gestures](https://github.com/PixlOne/logiops/pull/343) ![](./assets/open.svg)
-#### [onedark.nvim](https://github.com/navarasu/onedark.nvim) ![](./assets/star.svg)1256
+#### [onedark.nvim](https://github.com/navarasu/onedark.nvim) ![](./assets/star.svg)1253
 - [Adding semantic token support](https://github.com/navarasu/onedark.nvim/pull/159) ![](./assets/merged.svg)
 - [changed rainbowcol1 to lightgrey](https://github.com/navarasu/onedark.nvim/pull/158) ![](./assets/merged.svg)
-#### [styled_widget](https://github.com/ReinBentdal/styled_widget) ![](./assets/star.svg)1178
+#### [styled_widget](https://github.com/ReinBentdal/styled_widget) ![](./assets/star.svg)1180
 - [added limitedBox extension](https://github.com/ReinBentdal/styled_widget/pull/72) ![](./assets/merged.svg)
 - [Add Material & MouseRegion extention](https://github.com/ReinBentdal/styled_widget/pull/77) ![](./assets/merged.svg)
 #### [neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) ![](./assets/star.svg)1124
 - [Fixed zz doesn't center the due to wrapped line](https://github.com/karb94/neoscroll.nvim/pull/76) ![](./assets/merged.svg)
-#### [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) ![](./assets/star.svg)991
+#### [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) ![](./assets/star.svg)992
 - [chore: bumped peerDependencies to reflect the use of space-before-blocks](https://github.com/iamturns/eslint-config-airbnb-typescript/pull/293) ![](./assets/merged.svg)
 #### [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) ![](./assets/star.svg)664
 - [Cookies: case-insensitive check of set-cookies](https://github.com/mirage/ocaml-cohttp/pull/1008) ![](./assets/merged.svg)
 #### [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard) ![](./assets/star.svg)462
 - [Check if object is a function if the type idicates so](https://github.com/rhys-vdw/ts-auto-guard/pull/159) ![](./assets/merged.svg)
-#### [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) ![](./assets/star.svg)433
+#### [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) ![](./assets/star.svg)432
 - [Update README 1.0 suggested config](https://github.com/ziontee113/syntax-tree-surfer/pull/6) ![](./assets/merged.svg)
-#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg)355
+#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg)357
 - [Fix dart & flutter path on windows](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36) ![](./assets/merged.svg)
 - [feat: support overriding filetypes for adapters](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29) ![](./assets/merged.svg)
 #### [ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) ![](./assets/star.svg)95
