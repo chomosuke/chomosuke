@@ -126,14 +126,14 @@ Just a random dude who's into programming
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true&theme=transparent)
 ### Pull Requests
 <!--CONTRIB BEGIN-->
-#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)13082
+#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)13095
 - [Add `chomosuke/typst-preview.nvim`](https://github.com/rockerBOO/awesome-neovim/pull/983) ![](./assets/merged.svg)
 - [Add `chomosuke/term-edit.nvim`](https://github.com/rockerBOO/awesome-neovim/pull/739) ![](./assets/merged.svg)
-#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)11309
+#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)11315
 - [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706) ![](./assets/merged.svg)
 - [Fixes window position not being remembered on multi-monitor](https://github.com/neovide/neovide/pull/1837) ![](./assets/merged.svg)
 - [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707) ![](./assets/merged.svg)
-#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)6124
+#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)6126
 - [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835) ![](./assets/merged.svg)
 - [Improve git icons on directories](https://github.com/nvim-tree/nvim-tree.lua/pull/1809) ![](./assets/merged.svg)
 - [feat(diagnostics): only show diagnostic and git icon on closed folder](https://github.com/nvim-tree/nvim-tree.lua/pull/1778) ![](./assets/merged.svg)
@@ -161,7 +161,7 @@ Just a random dude who's into programming
 - [Check if object is a function if the type idicates so](https://github.com/rhys-vdw/ts-auto-guard/pull/159) ![](./assets/merged.svg)
 #### [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) ![](./assets/star.svg)431
 - [Update README 1.0 suggested config](https://github.com/ziontee113/syntax-tree-surfer/pull/6) ![](./assets/merged.svg)
-#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg)371
+#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg)372
 - [Fix dart & flutter path on windows](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36) ![](./assets/merged.svg)
 - [feat: support overriding filetypes for adapters](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29) ![](./assets/merged.svg)
 #### [ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) ![](./assets/star.svg)100
