@@ -31,7 +31,8 @@ for k in repos:
             # only include merge and opened pr
             prs.append(pr)
     prs.sort(key=lambda pr: pr.comments * 5 + pr.additions + pr.deletions, reverse=True)
-    repo_prss.append((repo, prs))
+    if len(prs) > 0:
+        repo_prss.append((repo, prs))
 
 repo_prss.sort(key=lambda repo_prs: repo_prs[0].stargazers_count, reverse=True)
 
