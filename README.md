@@ -126,17 +126,17 @@ Just a random dude who's into programming
 ![chomosuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomosuke&count_private=true&show_icons=true&theme=transparent)
 ### Pull Requests
 <!--CONTRIB BEGIN-->
-#### [llvm-project](https://github.com/llvm/llvm-project) ![](./assets/star.svg)30198
+#### [llvm-project](https://github.com/llvm/llvm-project) ![](./assets/star.svg)30327
 - [[clangd] Make clangd run `format::cleanupAroundReplacements()` for all code actions just as clang-tidy does](https://github.com/llvm/llvm-project/pull/118569) ![](./assets/open.svg)
 - [[clang-tidy][clangd] Fixed removeFunctionArgs don't remove comma for use-ranges check](https://github.com/llvm/llvm-project/pull/118568) ![](./assets/open.svg)
-#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)16772
+#### [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ![](./assets/star.svg)16778
 - [Add `chomosuke/typst-preview.nvim`](https://github.com/rockerBOO/awesome-neovim/pull/983) ![](./assets/merged.svg)
 - [Add `chomosuke/term-edit.nvim`](https://github.com/rockerBOO/awesome-neovim/pull/739) ![](./assets/merged.svg)
-#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)13401
+#### [neovide](https://github.com/neovide/neovide) ![](./assets/star.svg)13416
 - [Remember windows size via pixel](https://github.com/neovide/neovide/pull/1706) ![](./assets/merged.svg)
 - [Fixes window position not being remembered on multi-monitor](https://github.com/neovide/neovide/pull/1837) ![](./assets/merged.svg)
 - [Neovide crashes when both x & y blur are set to 0](https://github.com/neovide/neovide/pull/1707) ![](./assets/merged.svg)
-#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)7435
+#### [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ![](./assets/star.svg)7437
 - [feat: Indicate modified buffers](https://github.com/nvim-tree/nvim-tree.lua/pull/1835) ![](./assets/merged.svg)
 - [Improve git icons on directories](https://github.com/nvim-tree/nvim-tree.lua/pull/1809) ![](./assets/merged.svg)
 - [feat(diagnostics): only show diagnostic and git icon on closed folder](https://github.com/nvim-tree/nvim-tree.lua/pull/1778) ![](./assets/merged.svg)
@@ -146,7 +146,7 @@ Just a random dude who's into programming
 - [fix diagnostics showing up on file/dir with same prefix](https://github.com/nvim-tree/nvim-tree.lua/pull/1832) ![](./assets/merged.svg)
 - [Fixed highlight-opened-files doesn't automatically refresh](https://github.com/nvim-tree/nvim-tree.lua/pull/1827) ![](./assets/merged.svg)
 - [Fix nvim tree frozen with no name buffer](https://github.com/nvim-tree/nvim-tree.lua/pull/1879) ![](./assets/merged.svg)
-#### [onedark.nvim](https://github.com/navarasu/onedark.nvim) ![](./assets/star.svg)1664
+#### [onedark.nvim](https://github.com/navarasu/onedark.nvim) ![](./assets/star.svg)1665
 - [Adding semantic token support](https://github.com/navarasu/onedark.nvim/pull/159) ![](./assets/merged.svg)
 - [changed rainbowcol1 to lightgrey](https://github.com/navarasu/onedark.nvim/pull/158) ![](./assets/merged.svg)
 #### [neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) ![](./assets/star.svg)1632
@@ -158,7 +158,7 @@ Just a random dude who's into programming
 - [chore: bumped peerDependencies to reflect the use of space-before-blocks](https://github.com/iamturns/eslint-config-airbnb-typescript/pull/293) ![](./assets/merged.svg)
 #### [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) ![](./assets/star.svg)717
 - [Cookies: case-insensitive check of set-cookies](https://github.com/mirage/ocaml-cohttp/pull/1008) ![](./assets/merged.svg)
-#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg)580
+#### [mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) ![](./assets/star.svg)581
 - [Fix dart & flutter path on windows](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/36) ![](./assets/merged.svg)
 - [feat: support overriding filetypes for adapters](https://github.com/jay-babu/mason-nvim-dap.nvim/pull/29) ![](./assets/merged.svg)
 #### [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard) ![](./assets/star.svg)509
