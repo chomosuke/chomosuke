@@ -1,5 +1,5 @@
 # Richard Li
-Just a random dude who's into programming
+Imitate LLM for a living
 
 ## Knows more stuff than I need
 ### Languages
